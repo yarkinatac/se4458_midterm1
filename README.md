@@ -9,8 +9,5 @@ Assumptions:
 In the buy ticket section, the form asks for the date, origin, destination, and passenger's full name. However, because there might be multiple flights sharing the same date, origin, and destination, I've included an additional field for the flight number. This ensures a passenger can be accurately booked onto the correct specific flight. I tried deploy on the Azure but I can not deployment. However the program running on the localhost.
 Entity Relationship Diagram:
 In my database I created flight and user tables taking into account the requirements. I also created a relation table for flight passengers to keep track the flight passengers.I did not store the password information directly in my database. I use hashing and salting to store password information. 
-Presentation Video:
 
-
-
-![image](https://github.com/yarkinatac/se4458_midterm1/assets/93092486/c0deba74-85ae-401d-b349-c4248ca147e7)
+![image](https://github.com/yarkinatac/se4458_midterm1/assets/93092486/191332aa-5d6b-4703-b881-099e97f73770)
