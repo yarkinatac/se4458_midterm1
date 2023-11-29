@@ -12,4 +12,4 @@ In the buy ticket section, the form asks for the date, origin, destination, and 
 Entity Relationship Diagram:
 In my database I created flight and user tables taking into account the requirements. I also created a relation table for flight passengers to keep track the flight passengers.I did not store the password information directly in my database. I use hashing and salting to store password information. 
 
-![image](https://github.com/yarkinatac/se4458_midterm1/assets/93092486/191332aa-5d6b-4703-b881-099e97f73770)
+
