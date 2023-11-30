@@ -1,7 +1,7 @@
 SE-4458 Midterm Project Report
 Yarkın Ataç - 19070006020
 
-Deployed at but it can not work : https://se4458midterm1.azurewebsites.net/
+Deployed at : https://se4458midterm1.azurewebsites.net/
 Project Link: https://github.com/yarkinatac/se4458_midterm1
 About My Design:
 I used .NET Web API for my project and I designed my database in AzureSQL Server.
